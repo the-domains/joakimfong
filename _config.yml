@@ -1,0 +1,28 @@
+name: joakimfong
+favicon: null
+layout_spectrum: 0.9883752311579883
+typography_spectrum: 0.5739400174934417
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.677152493968606
+  lightness: 0.5261356683913618
+  saturation: 0.0352463242597878
+  rhythmicContrast: 0.9509798858780414
+purpose: []
